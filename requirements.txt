@@ -1,0 +1,6 @@
+accelerate
+pandas
+scikit-learn
+transformers
+torch
+openai
